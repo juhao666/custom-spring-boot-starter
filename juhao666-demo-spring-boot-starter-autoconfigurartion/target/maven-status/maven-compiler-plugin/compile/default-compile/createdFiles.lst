@@ -1,0 +1,3 @@
+com\juhao666\demo\bean\HelloProperties.class
+com\juhao666\demo\services\HelloService.class
+com\juhao666\demo\config\Juhao666StarterAutoConfiguration.class
